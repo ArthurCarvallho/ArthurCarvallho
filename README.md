@@ -160,37 +160,8 @@ arthur@dev-core:~$ _
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
-## `06.`SYSTEM_ACHIEVEMENTS
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArthurCarvallho&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
-</div>
-
-<br/>
-
-<!-- ===================== SNAKE CONTRIBUTION ===================== -->
-## `07.`CONTRIBUTION_MATRIX
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurCarvallho/ArthurCarvallho/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurCarvallho/ArthurCarvallho/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurCarvallho/ArthurCarvallho/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArthurCarvallho/ArthurCarvallho/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-</div>
-
->  **Configuração necessária:** crie um repositório `ArthurCarvallho/ArthurCarvallho` e adicione o workflow [`Platane/snk`](https://github.com/Platane/snk) via GitHub Actions para gerar o SVG no branch `output` — do contrário essa imagem aparece quebrada.
-
-<br/>
-
 <!-- ===================== REDES SOCIAIS ===================== -->
-## `08.`ESTABLISH_CONNECTION
+## `06.`ESTABLISH_CONNECTION
 
 <div align="center">
 
