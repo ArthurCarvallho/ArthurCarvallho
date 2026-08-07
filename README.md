@@ -37,34 +37,34 @@ filosofia:   "Código limpo, arquitetura escalável e lógica eficiente."
 <br/>
 
 <!-- ===================== TECH STACK ===================== -->
-## `02.`TECH_STACK.json
+##  `02.` SYSTEM_DESIGN.md
+
+Não basta apenas codar, é preciso projetar. Aqui estão os princípios que guiam minha infraestrutura:
 
 <div align="center">
 
-###  Linguagens
-<img src="https://skillicons.dev/icons?i=py,js,c,html,css&theme=dark" />
-
-###  Back-end & Frameworks
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs&theme=dark" />
-
-###  Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase&theme=dark" />
-
-###  Infraestrutura & DevOps
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,bash&theme=dark" />
-
-###  Integrações & Ferramentas
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=dark" />
+![Multi-Tenant](https://img.shields.io/badge/Arquitetura_Multi--Tenant-0D1117?style=for-the-badge&logo=databricks&logoColor=00FFF2)
+![ACID](https://img.shields.io/badge/Modelagem_Relacional_ACID-0D1117?style=for-the-badge&logo=mysql&logoColor=00FFF2)
+![REST](https://img.shields.io/badge/Integração_REST_APIs-0D1117?style=for-the-badge&logo=json&logoColor=00FFF2)
+![O(1)](https://img.shields.io/badge/Algoritmos_Assintóticos_O(1)-0D1117?style=for-the-badge&logo=python&logoColor=00FFF2)
 
 </div>
 
-<br/>
+##  `03.` TECH_STACK.json
+
+<div align="center">
+
+| Linguagens & Algoritmos | Back-End & Banco de Dados | Infraestrutura & Integrações |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=py,c,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,supabase&theme=dark" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,git,postman&theme=dark" /> |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 
 <!-- ===================== PROJETOS EM DESTAQUE ===================== -->
-## `03.`DEPLOYED_MODULES
+## `04.`DEPLOYED_MODULES
 
 <div align="center">
 
@@ -124,7 +124,7 @@ filosofia:   "Código limpo, arquitetura escalável e lógica eficiente."
 <br/>
 
 <!-- ===================== OBJETIVOS ATUAIS (TERMINAL) ===================== -->
-## `04.`CURRENT_PROCESSES
+## `05.`CURRENT_PROCESSES
 
 ```bash
 arthur@dev-core:~$ cat roadmap_carreira.log
@@ -141,7 +141,7 @@ arthur@dev-core:~$ _
 <br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
-## `05.`TELEMETRY_&_STATS
+## `06.`TELEMETRY_&_STATS
 
 <div align="center">
 
@@ -161,7 +161,7 @@ arthur@dev-core:~$ _
 <br/>
 
 <!-- ===================== REDES SOCIAIS ===================== -->
-## `06.`ESTABLISH_CONNECTION
+## `07.`ESTABLISH_CONNECTION
 
 <div align="center">
 
