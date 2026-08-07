@@ -179,6 +179,9 @@ arthur@dev-core:~$ _
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurCarvallho/ArthurCarvallho/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurCarvallho/ArthurCarvallho/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArthurCarvallho/ArthurCarvallho/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 </div>
 
