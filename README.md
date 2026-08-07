@@ -19,7 +19,7 @@
 <br/>
 
 <!-- ===================== SOBRE MIM ===================== -->
-## `01.` <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"/> SOBRE_MIM.exe
+## `01.`SOBRE_MIM.exe
 
 ```yaml
 > whoami
@@ -32,28 +32,28 @@ stack_core:  [Python, Flask, MySQL, Linux]
 filosofia:   "Código limpo, arquitetura escalável e lógica eficiente."
 ```
 
-> 🧠 Profissional focado em Engenharia de Software e performance. Especialista na construção de arquiteturas de backend robustas, modelagem de bancos de dados relacionais e motores lógicos para resolução de demandas corporativas complexas.
+>  Profissional focado em Engenharia de Software e performance. Especialista na construção de arquiteturas de backend robustas, modelagem de bancos de dados relacionais e motores lógicos para resolução de demandas corporativas complexas.
 
 <br/>
 
 <!-- ===================== TECH STACK ===================== -->
-## `02.` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> TECH_STACK.json
+## `02.`TECH_STACK.json
 
 <div align="center">
 
-### 💻 Linguagens
+###  Linguagens
 <img src="https://skillicons.dev/icons?i=py,js,c,html,css&theme=dark" />
 
-### ⚙️ Back-end & Frameworks
+###  Back-end & Frameworks
 <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs&theme=dark" />
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase&theme=dark" />
 
-### 🚀 Infraestrutura & DevOps
+###  Infraestrutura & DevOps
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,bash&theme=dark" />
 
-### 🧠 Integrações & Ferramentas
+###  Integrações & Ferramentas
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
@@ -64,7 +64,7 @@ filosofia:   "Código limpo, arquitetura escalável e lógica eficiente."
 <br/>
 
 <!-- ===================== PROJETOS EM DESTAQUE ===================== -->
-## `03.` <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28px"/> DEPLOYED_MODULES
+## `03.`DEPLOYED_MODULES
 
 <div align="center">
 
@@ -72,7 +72,7 @@ filosofia:   "Código limpo, arquitetura escalável e lógica eficiente."
 <tr>
 <td width="50%">
 
-### 🚀 CK ATS V2
+###  CK ATS V2
 > Plataforma SaaS B2B com arquitetura Multi-Tenant em banco relacional. Motor de extração nativa em múltiplas camadas e cálculo assintótico otimizado.
 
 `Python` `Flask` `MySQL` `Gunicorn`
@@ -82,7 +82,7 @@ filosofia:   "Código limpo, arquitetura escalável e lógica eficiente."
 </td>
 <td width="50%">
 
-### 🔗 Pipeline Supabase & Z-API
+###  Pipeline Supabase & Z-API
 > Automação de backend para integração B2B. Leitura dinâmica de registros no Supabase e envio em lote via REST API, implementando tratamento rigoroso de erros.
 
 `Python` `Supabase` `Z-API` `REST`
@@ -94,7 +94,7 @@ filosofia:   "Código limpo, arquitetura escalável e lógica eficiente."
 <tr>
 <td width="50%">
 
-### ⚙️ CK ATS V1
+###  CK ATS V1
 > Primeira iteração e Prova de Conceito (PoC) da plataforma CK ATS. Estruturação inicial das regras de negócio e mapeamento de dados.
 
 `Python` `Backend` `Arquitetura`
@@ -104,7 +104,7 @@ filosofia:   "Código limpo, arquitetura escalável e lógica eficiente."
 </td>
 <td width="50%">
 
-### 📇 Agenda de Contatos
+###  Agenda de Contatos
 > Estruturas de dados implementadas para gerenciamento de contatos. Foco em manipulação de memória, persistência de dados e otimização de busca.
 
 `C` `Python` `Algoritmos`
@@ -124,7 +124,7 @@ filosofia:   "Código limpo, arquitetura escalável e lógica eficiente."
 <br/>
 
 <!-- ===================== OBJETIVOS ATUAIS (TERMINAL) ===================== -->
-## `04.` <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28px"/> CURRENT_PROCESSES
+## `04.`CURRENT_PROCESSES
 
 ```bash
 arthur@dev-core:~$ cat roadmap_carreira.log
@@ -141,7 +141,7 @@ arthur@dev-core:~$ _
 <br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
-## `05.` <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="28px"/> TELEMETRY_&_STATS
+## `05.`TELEMETRY_&_STATS
 
 <div align="center">
 
@@ -161,7 +161,7 @@ arthur@dev-core:~$ _
 <br/>
 
 <!-- ===================== TROPHIES ===================== -->
-## `06.` <img src="https://media.giphy.com/media/26tPnDIvbqvj6bTKU/giphy.gif" width="28px"/> SYSTEM_ACHIEVEMENTS
+## `06.`SYSTEM_ACHIEVEMENTS
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArthurCarvallho&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
@@ -170,7 +170,7 @@ arthur@dev-core:~$ _
 <br/>
 
 <!-- ===================== SNAKE CONTRIBUTION ===================== -->
-## `07.` <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="28px"/> CONTRIBUTION_MATRIX
+## `07.`CONTRIBUTION_MATRIX
 
 <div align="center">
 
@@ -182,12 +182,12 @@ arthur@dev-core:~$ _
 
 </div>
 
-> ⚠️ **Configuração necessária:** crie um repositório `ArthurCarvallho/ArthurCarvallho` e adicione o workflow [`Platane/snk`](https://github.com/Platane/snk) via GitHub Actions para gerar o SVG no branch `output` — do contrário essa imagem aparece quebrada.
+>  **Configuração necessária:** crie um repositório `ArthurCarvallho/ArthurCarvallho` e adicione o workflow [`Platane/snk`](https://github.com/Platane/snk) via GitHub Actions para gerar o SVG no branch `output` — do contrário essa imagem aparece quebrada.
 
 <br/>
 
 <!-- ===================== REDES SOCIAIS ===================== -->
-## `08.` <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px"/> ESTABLISH_CONNECTION
+## `08.`ESTABLISH_CONNECTION
 
 <div align="center">
 
