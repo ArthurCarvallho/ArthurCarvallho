@@ -77,7 +77,7 @@ Não basta apenas codar, é preciso projetar. Aqui estão os princípios que gui
 
 `Python` `Flask` `MySQL` `Gunicorn`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ArthurCarvallho/ck-ats-v2)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ArthurCarvallho/CKATSV2)
 
 </td>
 <td width="50%">
@@ -87,7 +87,7 @@ Não basta apenas codar, é preciso projetar. Aqui estão os princípios que gui
 
 `Python` `Supabase` `Z-API` `REST`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ArthurCarvallho/supabase-zapi-pipeline)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ArthurCarvallho/DesafioSupabaseZ-API)
 
 </td>
 </tr>
@@ -99,7 +99,7 @@ Não basta apenas codar, é preciso projetar. Aqui estão os princípios que gui
 
 `Python` `Backend` `Arquitetura`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ArthurCarvallho/ck-ats-v1)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ArthurCarvallho/CKATSV1)
 
 </td>
 <td width="50%">
@@ -109,7 +109,7 @@ Não basta apenas codar, é preciso projetar. Aqui estão os princípios que gui
 
 `C` `Python` `Algoritmos`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ArthurCarvallho/agenda-de-contatos)
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ArthurCarvallho/Agenda-de-contatos)
 
 </td>
 </tr>
