@@ -1,75 +1,72 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFF2&center=true&vCenter=true&width=650&height=70&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Em+constru%C3%A7%C3%A3o%3A+Python+%2B+Backend+%2B+Automa%C3%A7%C3%A3o;Aprendendo+um+pouco+todo+dia)](https://github.com/ArthurCarvallho)
+# Arthur Carvalho
 
-![Profile Views](https://komarev.com/ghpvc/?username=ArthurCarvallho&color=00fff2&style=for-the-badge&label=SCANS+DETECTADOS)
+**Python | SQL | Backend e Automação**
 
-</div>
-
-## `01.` SOBRE_MIM.exe
-
-```
-> whoami
-
-nome:        Arthur Carvalho
-role:        Estudante de Ciência da Computação / Aspirante a Dev Backend
-localização: Uberlândia, MG - Brasil 🇧🇷
-foco_atual:  Fundamentos sólidos antes de correr atrás de "next big thing"
-stack_core:  [Python, MySQL, Git]
-filosofia:   "Terminar o que começo, antes de começar outra coisa."
-```
-
-Venho de uma rotina bem exigente — trabalho em ambiente hospitalar, escala 12x36 — e por isso aprendi a estudar com consistência, não com pressa. Prefiro fechar o ciclo completo de um assunto a acumular curso pela metade.
-
-## `02.` STACK_ATUAL
-
-<div align="center">
-
-![](https://skillicons.dev/icons?i=py,c,mysql,html,css,git,github&theme=dark)
+Estudante de Ciência da Computação · Técnico em Informática para Internet
 
 </div>
 
-*Aprendendo agora: Flask, pra colocar meus projetos Python na web.*
+## 01. Sobre mim
 
-## `03.` PROJETOS
+Sou formado como Técnico em Informática para Internet pelo SENAI e atualmente curso Ciência da Computação.
 
-- **[CK ATS](https://github.com/ArthurCarvallho/CKATSV2)** — Sistema de leitura, extração e organização de dados de currículos, com banco relacional estruturado pra cruzamento de informações. `Python` `MySQL` `HTML/CSS`
-  - Versão anterior: **[CK ATS V1](https://github.com/ArthurCarvallho/CKATSV1)**, mostrando a evolução do projeto
-- **[Integração Supabase + Z-API](https://github.com/ArthurCarvallho/DesafioSupabaseZ-API)** — Script Python que lê registros no Supabase e envia via API REST, com tratamento de erros. `Python` `Supabase` `REST`
-- **[Agenda de Contatos](https://github.com/ArthurCarvallho/Agenda-de-contatos)** — Estrutura de dados em C pra cadastro, busca e persistência de contatos. `C`
-- **[Jogo de Adivinhação](https://github.com/ArthurCarvallho/Jogo-de-adivinhao)** — Jogo simples em C, um dos primeiros projetos de lógica. `C`
+Trabalho no ambiente hospitalar em escala 12x36 e organizo meus estudos para evoluir na área de tecnologia de forma consistente.
 
-> 🔧 Em construção: **Verificador de Rede** em Python (ping em lista de IPs, relatório de status) — próximo projeto de portfólio.
+Meu foco é Python, SQL, desenvolvimento Backend e automação. Tenho interesse em construir sistemas que resolvam problemas reais, integrem serviços e trabalhem com dados.
 
-## `04.` ROADMAP
+Acredito em fechar cada assunto até o fim antes de partir para o próximo. Por isso, estou direcionando meus estudos para compreender melhor o código, as regras de negócio, os bancos de dados e os testes dos projetos que desenvolvo.
 
-```
-arthur@dev-core:~$ cat roadmap.log
+## 02. Foco atual
 
-[✔] Lógica de programação e estruturas de dados básicas (C, Python)
-[✔] Fundamentos de banco de dados relacional (MySQL)
-[~] Funções e Orientação a Objeto em Python (consolidando)
-[~] Projeto de automação em rede (Verificador de Rede)
-[ ] Flask — interface web pros projetos Python
-[ ] Inserção corporativa: aberto a Estágio/Júnior (Remoto, Híbrido ou Presencial)
+- **Python:** lógica de programação, funções e organização do código.
+- **SQL e bancos de dados:** modelagem relacional e operações com dados.
+- **Backend:** regras de negócio, persistência e APIs.
+- **Git e GitHub:** versionamento, documentação e evolução dos projetos.
+- **Testes:** aprendendo a validar o comportamento das aplicações.
 
-arthur@dev-core:~$ _
-```
+## 03. Projetos
 
-## `05.` TELEMETRY
+### CK ATS: sistema de triagem de currículos
 
-<div align="center">
+[CK ATS V2](https://github.com/ArthurCarvallho/CKATSV2) · Versão anterior: [CK ATS V1](https://github.com/ArthurCarvallho/CKATSV1)
 
-![](https://github-readme-stats.vercel.app/api?username=ArthurCarvallho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF2&icon_color=00FFF2&text_color=8B949E)
-![](https://streak-stats.demolab.com/?user=ArthurCarvallho&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFF2&fire=00FFF2&currStreakLabel=00FFF2)
+Projeto pessoal que explora Python, MySQL e Inteligência Artificial aplicada ao processamento de currículos. Estou trabalhando na evolução do projeto e na validação de suas funcionalidades.
 
-</div>
+### Agenda de Contatos
 
-## `06.` CONTATO
+[Ver repositório](https://github.com/ArthurCarvallho/Agenda-de-contatos)
 
-<div align="center">
+Projeto em C desenvolvido durante meus estudos de programação e lógica.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-carvalho-8701ba210)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurpdc07@gmail.com)
+### Jogo de Adivinhação
 
-</div>
+[Ver repositório](https://github.com/ArthurCarvallho/Jogo-de-adivinha-o)
+
+Projeto introdutório em C para praticar lógica de programação.
+
+## 04. Como desenvolvo
+
+Utilizo ferramentas de Inteligência Artificial como parte do meu processo de desenvolvimento. Alguns projetos existentes foram construídos com uso intensivo dessas ferramentas.
+
+Meu objetivo atual é aprofundar meu domínio técnico, reconstruindo e validando a lógica de backend, estudando as regras de negócio e adicionando testes e documentação conforme evoluo.
+
+Quero que meus projetos demonstrem não apenas o que consigo construir com auxílio de ferramentas, mas também o que consigo compreender, testar, modificar e explicar.
+
+## 05. Tecnologias com que trabalho
+
+![Tecnologias](https://skillicons.dev/icons?i=py,c,mysql,sqlite,git,github&theme=dark)
+
+## 06. Próximas etapas
+
+- Consolidar funções e organização do código em Python.
+- Evoluir o backend do projeto de controle de estoque.
+- Praticar SQL, modelagem e persistência de dados.
+- Aprender testes automatizados com pytest.
+- Melhorar o versionamento e a documentação dos projetos.
+- Avançar gradualmente para APIs e integrações.
+
+## 07. Contato
+
+[LinkedIn](https://www.linkedin.com/in/arthur-carvalho-8701ba210) · [E-mail](mailto:Arthurpdctec@gmail.com)
